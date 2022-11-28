@@ -1,4 +1,4 @@
-""let fs = require('fs')
+let fs = require('fs')
 let { MessageType } = require('@adiwajshing/baileys')
 let handler = m => m
 
